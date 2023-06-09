@@ -1,0 +1,19 @@
+{
+    "name": "JohnDoe-new",
+    "mail": "john.doe@search.com",
+    "department": {
+        "departmentName": "lorem ipsum",
+        "location": "Jakarta"
+    },
+    "subjects": [
+        {
+            "subjectName": "Java",
+            "marksObtained": 100.0
+        },
+        {
+            "subjectName": "C++",
+            "marksObtained": 100.0
+        }
+    ],
+    "percentage": 100
+}
